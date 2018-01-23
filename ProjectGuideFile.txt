@@ -1,1 +1,5 @@
 This is sample Sample application of Angular4 and NodeJs and deploy to AWS Environment.
+
+
+
+Testing from local
